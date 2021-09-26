@@ -1,0 +1,11 @@
+[
+    {"_id": 1, "name": "Brian Tracy", "age": 75,  "bestBook" : "Eat That Frog", "speciality": "Personal Development", "hiringFees": 10000, "img": "https://theartofliving.com/wp-content/uploads/2020/10/brian-tracy-interview.jpg"},
+    {"_id": 2, "name": "Yuval Noah Harari", "age": 45,  "bestBook" : "Sapiens", "speciality": "Historian", "hiringFees": 18000, "img": "https://assets.weforum.org/sf_account/image/OYPGh90FjJt0XME4g2dW5jxEQzBdvNv7YPGsrt8tqds.jpg"},
+    {"_id": 3, "name": "Robert T. Kiyosaki", "age": 74,  "bestBook" : "Rich DAd Poor Dad", "speciality": "Financial Literacy", "hiringFees": 20000, "img":"https://pbs.twimg.com/profile_images/472421066007015424/MHUJj15g_400x400.jpeg"},
+    {"_id": 4, "name": "Tony Buzan", "age": 76,  "bestBook" : "Mind Maps", "speciality": "Increasing Memory Power", "hiringFees": 15000, "img": "https://tonybuzan.com//wp-content/uploads/2020/06/tony_with_mm.jpg"  },
+    
+    {"_id": 5, "name": "Simon Sinek", "age": 47,  "bestBook" : "Start With Why", "speciality": "Corporate Skills", "hiringFees": 12000, "img": "https://blog.12min.com/wp-content/uploads/2018/04/32c-Simon-Sinek.png"},
+    {"_id": 6, "name": "Timothy Ferriss", "age": 44,  "bestBook" : "The 4 Hour Work Week", "speciality": "Entrepreneurship Skills and Mindset", "hiringFees": 12000, "img": "https://global-uploads.webflow.com/5dfd5aca7badfa129f80056c/5f89bea12391da18e1f989f5_TimFerrissBookRecommendations.jpeg"},
+    {"_id": 7, "name": "Jay Shetty", "age": 34,  "bestBook" : "Think Like a Monk", "speciality": "Wisdom for Prosperity", "hiringFees": 17000, "img": "https://res.cloudinary.com/jerrick/image/upload/v1600637613/5f67caada6b679001ce6cfb1.jpg"}
+    
+  ]

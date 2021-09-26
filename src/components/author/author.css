@@ -1,0 +1,8 @@
+.authors-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.author-container {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}

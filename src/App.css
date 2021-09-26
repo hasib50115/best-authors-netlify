@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+/* best authors styles start  */
+.container{
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+}
+.author-Container{
+  width: 200px;
+  height: 300px;
+  border: 2px solid lightsalmon;
+  margin: 10px;
+  padding: 10px;
+}
